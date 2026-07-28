@@ -102,7 +102,3 @@ Bu çalışma sayesinde;
 - Teknik ekip ile iş birliği süreçlerini gözlemledim.
 
 ---
-
-# 📬 İletişim
-
-GitHub profilim üzerinden diğer projelerimi de inceleyebilirsiniz.
