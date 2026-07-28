@@ -26,7 +26,7 @@ Proje kapsamında iş analizi süreçleri uygulanmış, kullanıcı senaryoları
 Bu proje kapsamında;
 
 - İş gereksinimlerini analiz ettim.
-- Kullanıcı hikâyeleri (User Story) hazırladım.
+- Kullanıcı hikâyeleri hazırladım.
 - Kabul kriterlerini oluşturdum.
 - Süreç analizine katkı sağladım.
 - Arayüz tasarımlarını Figma ile hazırladım.
@@ -42,52 +42,7 @@ Bu proje kapsamında;
 - Postman
 - Swagger
 - SQL
-- Draw.io (veya kullandığın diyagram aracı)
-
----
-
-# 📂 Proje İçeriği
-
-Bu depoda aşağıdaki çalışmalar yer almaktadır.
-
-- 📄 İş Gereksinimleri
-- 📄 User Story'ler
-- 📄 Acceptance Criteria
-- 📄 Test Senaryoları
-- 📊 Diyagramlar
-- 🎨 Figma Tasarımları
-
----
-
-# 📁 Klasör Yapısı
-
-- 📂 Dokumanlar
-- 📂 Diyagramlar
-- 📂 Tasarimlar
-- 📂 Gorseller
-- 📂 Test-Senaryolari
-
----
-
-# 🎨 Arayüz Tasarımları
-
-Bu bölümde Figma kullanılarak hazırlanan ekran tasarımları bulunmaktadır.
-
----
-
-# 📊 Diyagramlar
-
-Bu bölümde sistem analizini destekleyen diyagramlar yer almaktadır.
-
-- Use Case Diyagramı
-- ER Diyagramı
-- Activity Diagramı
-
----
-
-# 🧪 Test Çalışmaları
-
-Proje kapsamında hazırlanan test senaryoları ve doğrulama çalışmaları bu bölümde yer almaktadır.
+- Draw.io 
 
 ---
 
